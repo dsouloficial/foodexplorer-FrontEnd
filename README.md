@@ -56,7 +56,7 @@ Para efetuar login na aplicação, utilize as credenciais abaixo:
 ### Deploy local
 
 1. Para executar o projeto localmente é necessário que primeiro seja feito o deploy do backend da aplicação, acesse o repositório
-[Github.com/dsouloficial/foodexplorer-api](https://github.com/dsouloficial/ExplorerFood-Backend.git#%EF%B8%8F-deploy-local) e siga as instruções de deploy local.
+[github.com/dsouloficial/ExplorerFood-Backend.git](https://github.com/dsouloficial/ExplorerFood-Backend.git#%EF%B8%8F-deploy-local) e siga as instruções de deploy local.
 
 2. Faça o clone do projeto em uma pasta local através do prompt de terminal:
 ```bash
