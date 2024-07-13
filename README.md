@@ -41,7 +41,7 @@ Frontend do projeto Food Explorer</p>
 ## 🚀 Deploy
 
 O projeto está hospedado na **Netlify** e pode ser acessado em:
-- [FoodExplorer-dsouloficial.netlify.app](https://foodexplorer-dsouloficial.netlify.app/)
+- [foodexplorer-front-end.vercel.app](foodexplorer-front-end.vercel.app/)
 
 Para efetuar login na aplicação, utilize as credenciais abaixo:
 
