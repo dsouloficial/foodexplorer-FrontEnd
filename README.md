@@ -84,7 +84,7 @@ npm run dev
 ## 🔙 Backend
 
 O backend desta aplicação encontra-se no repositório: 
-- [Github.com/dsouloficial/foodexplorer-api](https://github.com/dsouloficial/foodexplorer-api)
+- [github.com/dsouloficial/ExplorerFood-Backend.git](https://github.com/dsouloficial/ExplorerFood-Backend.git)
 
 ## 🦾 Tecnologias
 
