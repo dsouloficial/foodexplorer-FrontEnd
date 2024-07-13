@@ -1,4 +1,4 @@
-##Explorer Food Front-End
+Explorer Food Front-End
 
 ![preview](./src/assets/preview.png)
 
@@ -36,16 +36,6 @@ Frontend do projeto Food Explorer</p>
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
 <!--   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
-</p>
-
-
-
-<br>
-
-<p align="center">
-  <a href="https://foodexplorer-dsouloficial.netlify.app/" target="_blank">
-    <img alt="foodexplorer preview" src=".github/preview.png" width="100%">
-  </a>
 </p>
 
 ## 🚀 Deploy
